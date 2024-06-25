@@ -1,0 +1,1 @@
+{"name":"Local: amazonmlpranjali","url":"/Users/shubhamsahu/Desktop/C++/amazonmlpranjali.cpp","tests":[{"id":1719113697426,"input":"1\n4\n1 14 11 19","output":""},{"id":1719116163253,"input":"1\n8\n14 1 2 16 10 11 9 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/shubhamsahu/Desktop/C++/amazonmlpranjali.cpp","group":"local","local":true}

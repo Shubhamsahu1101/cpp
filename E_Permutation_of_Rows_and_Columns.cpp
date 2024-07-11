@@ -24,7 +24,7 @@ void solve() {
         }
     }
 
-    set<set<int>> rows;
+    set<set<int> > rows;
     forl(i,0,n){
         set<int> temp;
         forl(j,0,m){
@@ -42,7 +42,7 @@ void solve() {
         }
     }
 
-    set<set<int>> cols;
+    set<set<int> > cols;
     forl(j,0,m){
         set<int> temp;
         forl(i,0,n){

@@ -7,14 +7,8 @@
 using namespace std;
 
 void solve() {
-    map<int, int> m;
-    m[1]=1;
-    m[2]=2;
-    m[3]=3;
-    m[4]=4;
-    for(auto it: m){
-        cout<<it.first<<" "<<it.second<<endl;
-    }
+  vector<int> v(5,-1);
+  cout<<v.at(6)<<endl;
 }
 int main() {
     ios_base::sync_with_stdio(false);
